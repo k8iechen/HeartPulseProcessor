@@ -19,3 +19,5 @@ and three classes for Dataset B:
 - Normal
 - Murmur
 - Extrasystole
+
+Commits: Basic Properties: Sample file used: ../input/heartbeat-sounds/set_b/normal__170_1307970562729_B.wav
